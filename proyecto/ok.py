@@ -30,3 +30,9 @@ import random
 
 numero= random.uniform(0,100.0)
 print (numero)
+
+
+gonza= 1
+marcela=2
+jorge2=3
+gonzalo234=5
